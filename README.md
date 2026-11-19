@@ -4,6 +4,7 @@
 
 ```bash
 git clone https://github.com/Farzad867/8-bit-cpu-game.git
+cd 8-bit-cpu-game
 npm install
 npm run dev
 ```
