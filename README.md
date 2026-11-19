@@ -3,7 +3,8 @@
 ## راهنمای اجرای سریع پروژه
 
 ```bash
+git clone https://github.com/Farzad867/8-bit-cpu-game.git
 npm install
 npm run dev
 ```
-
+فقط یادت نره node js و npm رو نصب داشته باشی (:
